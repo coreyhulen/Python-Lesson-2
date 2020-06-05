@@ -1,6 +1,6 @@
 import turtle
 
-name = input('What is your name?\n')
+name = input('What is your ZZZ name?\n')
 print('Hi, %s.' % name)
 
 t = turtle.Turtle()
